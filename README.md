@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @miladnasirii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-miladnasirii/miladnasirii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in digital marketing, business and python coding.
+- 🌱 I’m currently learning how to use python in marketing and be deep in CRO.
+- 💞️ I’m looking to collaborate with mid-level and high-level companies for digital marketing and CRO Projects.
+- 📫 How to reach me linkedin: millad-nasirii
